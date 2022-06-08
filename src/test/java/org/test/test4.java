@@ -1,8 +1,8 @@
 package org.test;
 
-public class test {
+public class test4 {
 
-	public test() {
+	public test4() {
 		System.out.println("test1");
 		System.out.println("test2");
 		System.out.println("test3");
